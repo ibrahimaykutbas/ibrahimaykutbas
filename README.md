@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
+👨🏼‍💻 I'm İbrahim Aykut. <br>
+🧐 I am a curious and open minded software developer. <br>
+🤳🏻 I love to learn and share. <br>
+👨🏼‍🔧 I love developing and improving. <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimaykutbas)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ibrahimaykutbas/ibrahimaykutbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
