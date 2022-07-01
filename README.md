@@ -4,7 +4,8 @@
 🧐 I am a curious and open minded software developer. <br>
 🤳🏻 I love to learn and share. <br>
 👨🏼‍🔧 I love developing and improving. <br>
-🔭 I’m currently working on Konusarak Ogren 
+🔭 I’m currently working on Konusarak Ogren <br> 
+:paperclip: [For More](https://ibrahimaykutbas.github.io/)
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
