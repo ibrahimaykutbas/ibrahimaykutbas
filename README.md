@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ibrahimaykutbas)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibrahimaykutbas)
 
-<image align="left" width="%40" src="https://github-readme-stats.vercel.app/api?username=ibrahimaykutbas" />
-<image align="left" width="%40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimaykutbas" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimaykutbas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimaykutbas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
