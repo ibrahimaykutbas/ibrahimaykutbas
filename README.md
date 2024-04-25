@@ -4,7 +4,7 @@
 🧐 I am a curious and open minded software developer. <br>
 🤳🏻 I love to learn and share. <br>
 👨🏼‍🔧 I love developing and improving. <br>
-🔭 I’m currently working at Konusarak Ogren <br> 
+🔭 I’m currently working at Kaizen Technology. <br> 
 :paperclip: [For More](https://ibrahimaykutbas.github.io/)
 
 # Tech Stack
