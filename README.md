@@ -5,7 +5,6 @@
 🤳🏻 I love to learn and share. <br>
 👨🏼‍🔧 I love developing and improving. <br>
 🔭 I’m currently working at Kaizen Technology. <br> 
-:paperclip: [For More](https://ibrahimaykutbas.github.io/)
 
 # Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
