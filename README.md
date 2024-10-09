@@ -1,13 +1,13 @@
 <h1 align="center">Hello There 👋</h1>
 <h3 align="center">A passionate mobile application developer</h3>
 
-- 👨🏼‍💻 Hi, I'm **İbrahim Aykut**
+👨🏼‍💻 Hi, I'm **İbrahim Aykut**
 
-- 💻 I’m currently learning **JavaScript, React Native, Swift, SwiftUI**
+💻 I’m currently learning **JavaScript, React Native, Swift, SwiftUI**
 
-- 💬 You can ask me questions about **mobile application development**
+💬 You can ask me questions about **mobile application development**
 
-- 📫 How to reach me **LinkedIn**
+📫 How to reach me **LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
