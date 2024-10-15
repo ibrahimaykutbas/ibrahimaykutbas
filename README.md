@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahimaykutbas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahimaykutbas/" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/ibrahimaykutbas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="https://www.linkedin.com/in/ibrahimaykutbas/" height="38" width="38" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
